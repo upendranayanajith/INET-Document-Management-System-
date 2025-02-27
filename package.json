@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.6.0",
+    "pm2": "^5.4.3"
+  }
+}
